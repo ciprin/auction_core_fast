@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy==2.0.40
+apscheduler
+aiosqlite
+aiosqlite
+pytest
+httpx
+greenlet
+pydantic
